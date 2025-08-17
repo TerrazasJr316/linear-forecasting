@@ -1,4 +1,4 @@
-# Linear Forecasting 
+# Linear Forecasting
 
 This project leverages a dataset of 500 entries to implement Linear Regression while validating key assumptions such as linearity, elasticity, and homoscedasticity. The workflow involves statistical analysis grounded on the mathematical model and decision-making supported by a Machine Learning methodology.
 
