@@ -36,9 +36,9 @@ This project leverages a dataset of 500 entries to implement Linear Regression w
 
 * CSV files
 * XLSX files
-* pandas — data analysis and manipulation
-* numpy — numerical computations and matrix operations
+* pandas - data analysis and manipulation
+* numpy - numerical computations and matrix operations
 
 ### Machine Learning
 
-* scikit-learn — ML models, regression, classification
+* scikit-learn - ML models, regression, classification
