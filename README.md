@@ -42,3 +42,52 @@ This project leverages a dataset of 500 entries to implement Linear Regression w
 ### Machine Learning
 
 * scikit-learn - ML models, regression, classification
+
+## Installation and Configuration
+
+### Requirements
+
+* Python 3.10+ (stable version)
+* Linux operating system (any distribution, recommended)
+* Virtual environment in Anaconda Navigator
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/TerrazasJr316/linear-forecasting.git
+cd linear-forecasting
+```
+
+### 2. Launch the virtual environment
+
+```bash
+# to create
+~$ conda create -n environment_name python=version anaconda
+# to activate
+~$ source activate -- environment_name
+# to desactivate
+~$ source deactivate
+```
+
+### 3. Install required libraries
+
+```bash
+# conda
+conda install anaconda::numpy
+conda install anaconda::pandas
+conda install anaconda::matplotlib
+conda install anaconda::scikit-learn
+# pip
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install scikit-learn
+```
+
+### 4. Set the dataset path
+
+recomended
+
+```bash
+linear-forecasting/
+```
