@@ -69,6 +69,8 @@ cd linear-forecasting
 ~$ source deactivate
 ```
 
+[Managing Environment](https://www.anaconda.com/docs/tools/anaconda-navigator/tutorials/manage-environments)
+
 ### 3. Install required libraries
 
 ```bash
@@ -86,7 +88,7 @@ pip install scikit-learn
 
 ### 4. Set the dataset path
 
-recomended
+recomended:
 
 ```bash
 linear-forecasting/
