@@ -24,7 +24,7 @@ This project leverages a dataset of 500 entries to implement Linear Regression w
 
 ### Programming Language
 
-* Python
+* Python3
 
 ### Environment Management
 
@@ -93,5 +93,10 @@ recomended:
 ```bash
 linear-forecasting/
 ```
+
+## Preguntas Frecuentes
+
+https://es.stackoverflow.com/questions/335525/como-activar-conda-environment/339487#339487
+https://www.anaconda.com/docs/tools/anaconda-navigator/tutorials/manage-environments
 
 #### to be continue...
