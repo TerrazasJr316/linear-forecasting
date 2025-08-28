@@ -94,9 +94,9 @@ recomended:
 linear-forecasting/
 ```
 
-## Preguntas Frecuentes
+## ❓ FAQ
 
-https://es.stackoverflow.com/questions/335525/como-activar-conda-environment/339487#339487
-https://www.anaconda.com/docs/tools/anaconda-navigator/tutorials/manage-environments
+* [How to activate conda environment](https://es.stackoverflow.com/questions/335525/como-activar-conda-environment/339487#339487)
+* [Managing environments](https://www.anaconda.com/docs/tools/anaconda-navigator/tutorials/manage-environments)
 
 #### to be continue...
