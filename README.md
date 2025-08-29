@@ -20,7 +20,7 @@ This project leverages a dataset of 500 entries to implement Linear Regression w
 * Hypothesis testing
 * Conclusions
 
-## Implemented Technologies
+## 🚀 Implemented Technologies
 
 ### Programming Language
 
@@ -43,7 +43,7 @@ This project leverages a dataset of 500 entries to implement Linear Regression w
 
 * scikit-learn - ML models, regression, classification
 
-## Installation and Configuration
+## 📦 Installation and Configuration
 
 ### Requirements
 
@@ -94,9 +94,31 @@ recomended:
 linear-forecasting/
 ```
 
+## 📁 Project Structure
+
+```sh
+linear-forecasting/
+├── data/
+│   ├── dataset_5.xlsx           # Raw dataset (original format)
+│   └── dataset_analisis.csv     # Processed dataset converted to CSV
+├── notebooks/
+│  └── proyecto.ipynb           # Notebook for model training & analysis
+
+```
+
+## Functions
+
+## 🐛 Troubleshooting
+
 ## ❓ FAQ
 
 * [How to activate conda environment](https://es.stackoverflow.com/questions/335525/como-activar-conda-environment/339487#339487)
 * [Managing environments](https://www.anaconda.com/docs/tools/anaconda-navigator/tutorials/manage-environments)
+* [What's Logistic Regression?](https://www.ibm.com/mx-es/think/topics/logistic-regression)
+* 
 
-#### to be continue...
+## Contact me & Social edia
+
+[![Email](https://img.shields.io/badge/Gmail-terrazasjosue0%40gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](mailto:terrazasjosue0@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%40Josu%C3%A9_Terrazas-0866FF?style=for-the-badge&logo=Facebook&logoColor=withe&labelColor=101010)](https://facebook.com/josue.terrazasmendoza)
+[![Instagram](https://img.shields.io/badge/Instagram-%40jos__mdz316-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://instagram.com/jos_mdz316/)
