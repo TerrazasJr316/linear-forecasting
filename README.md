@@ -102,7 +102,7 @@ linear-forecasting/
 │   ├── dataset_5.xlsx           # Raw dataset (original format)
 │   └── dataset_analisis.csv     # Processed dataset converted to CSV
 ├── notebooks/
-│  └── proyecto.ipynb           # Notebook for model training & analysis
+│   └── proyecto.ipynb           # Notebook for model training & analysis
 
 ```
 
