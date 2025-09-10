@@ -64,7 +64,7 @@ cd linear-forecasting
 # to create
 ~$ conda create -n environment_name python=version anaconda
 # to activate
-~$ source activate -- environment_name
+~$ source activate nvironment_name
 # to desactivate
 ~$ source deactivate
 ```
